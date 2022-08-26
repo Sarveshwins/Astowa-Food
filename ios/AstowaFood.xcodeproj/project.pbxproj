@@ -14,12 +14,6 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-AstowaFood-AstowaFoodTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-AstowaFood-AstowaFoodTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		E28214E8CFBA4699A1F4DDF4 /* NotoSansJP-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2B85CD8BE3F546299F058076 /* NotoSansJP-Black.otf */; };
-		728A70EAF2B94B2188C39B6E /* NotoSansJP-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = D4BC2806BB94498499D9E44F /* NotoSansJP-Bold.otf */; };
-		4B3D6744402B41B7AA729A9F /* NotoSansJP-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = AA6D9A24F03A44678068BFF4 /* NotoSansJP-Light.otf */; };
-		73B8E2655D594AF4A93C8C28 /* NotoSansJP-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9FC4F8ED2DA74AC7AF603052 /* NotoSansJP-Medium.otf */; };
-		43D05946D6E94DDC96B36E97 /* NotoSansJP-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 15B7EC7CE2824AFA9A4F020E /* NotoSansJP-Regular.otf */; };
-		1A1D52E9EC0540ACBA860420 /* NotoSansJP-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9AD71F4BE8AA4601BE5B45EC /* NotoSansJP-Thin.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,12 +44,6 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AstowaFood/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-AstowaFood-AstowaFoodTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AstowaFood-AstowaFoodTests.release.xcconfig"; path = "Target Support Files/Pods-AstowaFood-AstowaFoodTests/Pods-AstowaFood-AstowaFoodTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		2B85CD8BE3F546299F058076 /* NotoSansJP-Black.otf */ = {isa = PBXFileReference; name = "NotoSansJP-Black.otf"; path = "../src/assets/fonts/NotoSansJP-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D4BC2806BB94498499D9E44F /* NotoSansJP-Bold.otf */ = {isa = PBXFileReference; name = "NotoSansJP-Bold.otf"; path = "../src/assets/fonts/NotoSansJP-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		AA6D9A24F03A44678068BFF4 /* NotoSansJP-Light.otf */ = {isa = PBXFileReference; name = "NotoSansJP-Light.otf"; path = "../src/assets/fonts/NotoSansJP-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9FC4F8ED2DA74AC7AF603052 /* NotoSansJP-Medium.otf */ = {isa = PBXFileReference; name = "NotoSansJP-Medium.otf"; path = "../src/assets/fonts/NotoSansJP-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		15B7EC7CE2824AFA9A4F020E /* NotoSansJP-Regular.otf */ = {isa = PBXFileReference; name = "NotoSansJP-Regular.otf"; path = "../src/assets/fonts/NotoSansJP-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9AD71F4BE8AA4601BE5B45EC /* NotoSansJP-Thin.otf */ = {isa = PBXFileReference; name = "NotoSansJP-Thin.otf"; path = "../src/assets/fonts/NotoSansJP-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,7 +122,6 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
-				16D72F0552E543BC869992B8 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -160,20 +147,6 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		16D72F0552E543BC869992B8 /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				2B85CD8BE3F546299F058076 /* NotoSansJP-Black.otf */,
-				D4BC2806BB94498499D9E44F /* NotoSansJP-Bold.otf */,
-				AA6D9A24F03A44678068BFF4 /* NotoSansJP-Light.otf */,
-				9FC4F8ED2DA74AC7AF603052 /* NotoSansJP-Medium.otf */,
-				15B7EC7CE2824AFA9A4F020E /* NotoSansJP-Regular.otf */,
-				9AD71F4BE8AA4601BE5B45EC /* NotoSansJP-Thin.otf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
@@ -271,12 +244,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				E28214E8CFBA4699A1F4DDF4 /* NotoSansJP-Black.otf in Resources */,
-				728A70EAF2B94B2188C39B6E /* NotoSansJP-Bold.otf in Resources */,
-				4B3D6744402B41B7AA729A9F /* NotoSansJP-Light.otf in Resources */,
-				73B8E2655D594AF4A93C8C28 /* NotoSansJP-Medium.otf in Resources */,
-				43D05946D6E94DDC96B36E97 /* NotoSansJP-Regular.otf in Resources */,
-				1A1D52E9EC0540ACBA860420 /* NotoSansJP-Thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
