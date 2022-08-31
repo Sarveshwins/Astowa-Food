@@ -1,4 +1,4 @@
-package com.astowafood.newarchitecture.components;
+package com.fooddemo.org.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

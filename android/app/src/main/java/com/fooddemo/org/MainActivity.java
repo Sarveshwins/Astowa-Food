@@ -1,4 +1,4 @@
-package com.astowafood;
+package com.fooddemo.org;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

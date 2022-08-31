@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AstowaFood</string>
+    <string name="facebook_app_id">793834918438490</string>
+<string name="fb_login_protocol_scheme">fb793834918438490</string>
+<string name="facebook_client_token">2082640f0c0434b987fd1866d9ded131</string>
+
+
 </resources>

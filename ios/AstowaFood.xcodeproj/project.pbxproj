@@ -36,7 +36,7 @@
 		00E356EE1AD99517003FC87E /* AstowaFoodTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AstowaFoodTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* AstowaFoodTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AstowaFoodTests.m; sourceTree = "<group>"; };
-		09ECA11A685049C3A9150AD2 /* NotoSansJP-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Medium.otf"; path = "../src/assets/fonts/NotoSansJP-Medium.otf"; sourceTree = "<group>"; };
+		09ECA11A685049C3A9150AD2 /* NotoSansJP-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Medium.otf"; path = "../src/assets/fonts/NotoSansJP-Medium.otf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* AstowaFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AstowaFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = AstowaFood/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = AstowaFood/AppDelegate.mm; sourceTree = "<group>"; };
@@ -44,17 +44,18 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AstowaFood/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AstowaFood/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-AstowaFood-AstowaFoodTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AstowaFood-AstowaFoodTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BC17E6628BE0F1B0058743A /* AstowaFood.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = AstowaFood.entitlements; path = AstowaFood/AstowaFood.entitlements; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-AstowaFood.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AstowaFood.debug.xcconfig"; path = "Target Support Files/Pods-AstowaFood/Pods-AstowaFood.debug.xcconfig"; sourceTree = "<group>"; };
-		461CF8C285E6466CA4D7053E /* NotoSansJP-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Light.otf"; path = "../src/assets/fonts/NotoSansJP-Light.otf"; sourceTree = "<group>"; };
+		461CF8C285E6466CA4D7053E /* NotoSansJP-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Light.otf"; path = "../src/assets/fonts/NotoSansJP-Light.otf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-AstowaFood.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AstowaFood.release.xcconfig"; path = "Target Support Files/Pods-AstowaFood/Pods-AstowaFood.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-AstowaFood-AstowaFoodTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AstowaFood-AstowaFoodTests.debug.xcconfig"; path = "Target Support Files/Pods-AstowaFood-AstowaFoodTests/Pods-AstowaFood-AstowaFoodTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-AstowaFood.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AstowaFood.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		77C96536EAC94080BFF3C2E6 /* NotoSansJP-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Regular.otf"; path = "../src/assets/fonts/NotoSansJP-Regular.otf"; sourceTree = "<group>"; };
+		77C96536EAC94080BFF3C2E6 /* NotoSansJP-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Regular.otf"; path = "../src/assets/fonts/NotoSansJP-Regular.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AstowaFood/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-AstowaFood-AstowaFoodTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AstowaFood-AstowaFoodTests.release.xcconfig"; path = "Target Support Files/Pods-AstowaFood-AstowaFoodTests/Pods-AstowaFood-AstowaFoodTests.release.xcconfig"; sourceTree = "<group>"; };
-		9329487584614DC7BC41EB73 /* NotoSansJP-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Thin.otf"; path = "../src/assets/fonts/NotoSansJP-Thin.otf"; sourceTree = "<group>"; };
-		D313C38BE99B499FB8FE437E /* NotoSansJP-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Black.otf"; path = "../src/assets/fonts/NotoSansJP-Black.otf"; sourceTree = "<group>"; };
-		D35C3F25F4254345B236D55D /* NotoSansJP-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Bold.otf"; path = "../src/assets/fonts/NotoSansJP-Bold.otf"; sourceTree = "<group>"; };
+		9329487584614DC7BC41EB73 /* NotoSansJP-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Thin.otf"; path = "../src/assets/fonts/NotoSansJP-Thin.otf"; sourceTree = "<group>"; };
+		D313C38BE99B499FB8FE437E /* NotoSansJP-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Black.otf"; path = "../src/assets/fonts/NotoSansJP-Black.otf"; sourceTree = "<group>"; };
+		D35C3F25F4254345B236D55D /* NotoSansJP-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Bold.otf"; path = "../src/assets/fonts/NotoSansJP-Bold.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -98,6 +99,7 @@
 		13B07FAE1A68108700A75B9A /* AstowaFood */ = {
 			isa = PBXGroup;
 			children = (
+				1BC17E6628BE0F1B0058743A /* AstowaFood.entitlements */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -129,7 +131,6 @@
 				9329487584614DC7BC41EB73 /* NotoSansJP-Thin.otf */,
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -518,7 +519,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AstowaFood/AstowaFood.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SWDT88G8UG;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = AstowaFood/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -530,7 +533,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoFood.org;
 				PRODUCT_NAME = AstowaFood;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -544,7 +547,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AstowaFood/AstowaFood.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SWDT88G8UG;
 				INFOPLIST_FILE = AstowaFood/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -555,7 +560,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoFood.org;
 				PRODUCT_NAME = AstowaFood;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
